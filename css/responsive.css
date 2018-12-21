@@ -34,3 +34,11 @@ col-3 p {
 
 }
 
+@media (max-width: 750) {
+
+#navbar nav a {
+  
+}
+
+
+}
